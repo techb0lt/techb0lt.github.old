@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 repository: "techb0lt/techbolt.github.io"
 url: "https://techb0lt.github.io"
-baseurl: "/"
+baseurl: "/puml2"
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
