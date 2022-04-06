@@ -27,7 +27,7 @@ search: true
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-repository: "techb0lt/techbolt.github.io"
+repository: "techb0lt/puml2"
 url: "https://techb0lt.github.io"
 baseurl: "/puml2"
 # Outputting
