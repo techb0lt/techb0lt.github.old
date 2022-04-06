@@ -11,7 +11,7 @@ tags:
 
 In PlantUML:
 
-- `->`: Arrow is used for delivery message
+- `->`: Arrow is used for delivery message ...
 - `-->`: Dotted Arrow is used for return message
 
 ```plantuml
