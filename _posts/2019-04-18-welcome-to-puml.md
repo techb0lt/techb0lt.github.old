@@ -140,3 +140,21 @@ endif
 end
 @enduml
 ```
+
+```plantuml!
+@startuml
+start
+:step 1;
+:step 2;
+end
+@enduml
+```
+
+```plantuml!
+@startuml
+start
+:step 1
+step 2;
+end
+@enduml
+```
