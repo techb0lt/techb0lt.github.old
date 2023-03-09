@@ -36,10 +36,7 @@ Alice <-- Bob: Another authentication Response
 
 ```plantuml!
 @startuml
-scale 0.8
-'skinparam monochrome true
 skinparam handwritten true
-skinparam shadowing false
 'title Workday Time Difference Function
 start
 :Get the parameter values from calling function
