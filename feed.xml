@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="https://techb0lt.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://techb0lt.github.io/" rel="alternate" type="text/html" /><updated>2023-03-09T20:45:15+00:00</updated><id>https://techb0lt.github.io/feed.xml</id><title type="html">MM</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><author><name>First Lastname</name></author><entry><title type="html">Welcome to Jekyll!</title><link href="https://techb0lt.github.io/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2019-04-18T19:34:30+00:00</published><updated>2019-04-18T19:34:30+00:00</updated><id>https://techb0lt.github.io/blog/welcome-to-jekyll</id><content type="html" xml:base="https://techb0lt.github.io/blog/welcome-to-jekyll/">&lt;p&gt;In PlantUML:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&amp;gt;&lt;/code&gt;: Arrow is used for delivery message&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--&amp;gt;&lt;/code&gt;: Dotted Arrow is used for return message&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-plantuml&quot;&gt;&amp;lt;img class=&quot;plantuml&quot; src=&quot;http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a416c696365202d3e20426f623a2041757468656e7469636174696f6e20526571756573740a426f62202d2d3e20416c6963653a2041757468656e7469636174696f6e20526573706f6e73650a0a416c696365202d3e20426f623a20416e6f746865722061757468656e7469636174696f6e20526571756573740a416c696365203c2d2d20426f623a20416e6f746865722061757468656e7469636174696f6e20526573706f6e73650a40656e64756d6c&quot;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img class=&quot;plantuml&quot; src=&quot;http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a407374617274756d6c0a416c696365202d3e20426f623a2041757468656e7469636174696f6e20526571756573740a426f62202d2d3e20416c6963653a2041757468656e7469636174696f6e20526573706f6e73650a0a416c696365202d3e20426f623a20416e6f746865722061757468656e7469636174696f6e20526571756573740a416c696365203c2d2d20426f623a20416e6f746865722061757468656e7469636174696f6e20526573706f6e73650a40656e64756d6c0a40656e64756d6c&quot; /&gt;&lt;/p&gt;</content><author><name>First Lastname</name></author><category term="blog" /><category term="Processes" /><category term="Jekyll" /><category term="update" /><summary type="html">In PlantUML:</summary></entry><entry><title type="html">Welcome to PUML!</title><link href="https://techb0lt.github.io/blog/welcome-to-puml/" rel="alternate" type="text/html" title="Welcome to PUML!" /><published>2019-04-18T19:34:30+00:00</published><updated>2019-04-18T19:34:30+00:00</updated><id>https://techb0lt.github.io/blog/welcome-to-puml</id><content type="html" xml:base="https://techb0lt.github.io/blog/welcome-to-puml/">&lt;p&gt;In PlantUML:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;-&amp;gt;&lt;/code&gt;: Arrow is used for delivery message …&lt;/li&gt;
+  &lt;li&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;--&amp;gt;&lt;/code&gt;: Dotted Arrow is used for return message&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img class=&quot;plantuml&quot; src=&quot;http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a416c696365202d3e20426f623a2041757468656e7469636174696f6e20526571756573740a426f62202d2d3e20416c6963653a2041757468656e7469636174696f6e20526573706f6e73650a0a416c696365202d3e20426f623a20416e6f746865722061757468656e7469636174696f6e20526571756573740a416c696365203c2d2d20426f623a20416e6f746865722061757468656e7469636174696f6e20526573706f6e73650a40656e64756d6c&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;plantuml&quot; src=&quot;//www.plantuml.com/plantuml/png/nLPjJ-D64FuS_ugfAXIxTRX0TQYA3qHA0eh4YqHykjwdQB4tsCBUFNdNlFpxpgvZZr-WfRrAPo5axymy-ypiCxCvLPeLkimpHqKiup3T_zqPguTKV6C5oo6NGaP98NCEkYYvyvDEEBv7l2WppeH3dWaJyLEHQir5vKecbR1OFgNY7hOiKzmPwrJZLbzayH2p5mXJH5oasoqlk8Wud9SYqgaKZgNcp2wu1jmMB1ZNl817bfLSmHPv0RBEB7GTDG6cL7elU1mppRK1JmMCl-8pkRgQB1QG9BCy7yDM5ZdJFc14b4drNdzqjyGQpu6PY_XrO-0uipLcSqe0nmJcM5CTV6nWQBcT4zhQd-H4QQ0BVP23UOjaAJJQfxJqo8e3NEbiKba5VzOMRsYbs4EqYZBBgaLxJ1kxI_62bivtLO6CHnfCy4RBZUAHQzvZL81Rf-zJYJplmsz7qobMKqiupTbp8ij2iPWPC26HMyQt6foVmzNLSh4wFpUIYCeCMIg8ILPtN3zn8yudQVTM644K6lr09CKZBpJ6CisgNHN7nHW35kbZ6XkrtRs08KNEA52BMWLOYWxc0ePWVUfHmgC7crTTC5f6tzrYgqHdDzTdyz1TV_vZ7TwkhYysg-l5ya-tSn8-Z67imu5dNzfryvqtuaad_UYw_1xOFDgKVIAA3DCjT6d0ITlPC_KGuBvmvJcZaVLkYVCJOVKyHxE-seVIWzOpb7thAq10dYaEhf3l1KUl0IQnjOW2HML94FQ_J74P3bbGyRuZmU-6VZrF--OW-ENoB8J5FBHzrjLHPrSFLjVX3PnkqsVR-07KFL1F7p8vpWfhrtoZaARTYZqbQOOfLg4dnrEJwKnL7O8TRUuGjnbKtawuEqC0JSf2zhGpjuJDLZLCTR50AtuVlknC1TTb8HH8CylXIWfSzE7GVeKbLyPdVt__errOCtGsAqp4S5GjbIQY8O0rxJAgUrwLkPjkNPFBfhert4HcASPkRA77UrydU_baBnvxS8pUTqeNE94sgOZvCzN1D-sCRNtWJpslkYbh6CtkCamvuGM7iseiutYEkKAyyVpoSWn8DnM8wtRCVdUqUoVrJDu1RpDs7y2k5veAVlfeYj1nEkuTS1Knb4RVQpJxsnihg7mgbVw7sKdJpwgNhhV0CSYcnspBTyXE1oJhWuoaYF3mUYT4JKDdr9lRjggKPW33t0-7Sw0x2FeikhfuUxDNQrW5KxtUhjEe7XiZmAU6kLpErw5xKN24KDfrNNDJRyARpNfvPj_jD6bWVABZeNO_s9lMy_6lS_jxrDf4mnwBvlatmsNM_ytJyu5VMmlTaOSFmGzbLnSasFbGhlF5mip7eUxgSDBSGIy3WYNo3V7gPG9uGeQcdOaE7Rd1wCz4alhhS_7_6pgqqOySFCsPsGPzz_Zfd-0bPqg_eTR6sIx-qoNO4MyJsbTnJxn1xwV5K8JDw0bQjtFrVtQx33_VNhVyVZb2DpGwfcdBFFiB&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;plantuml&quot; src=&quot;http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a407374617274756d6c0a7363616c6520302e380a217468656d6520636572756c65616e0a736b696e706172616d2068616e647772697474656e20747275650a736b696e706172616d20736861646f77696e672066616c73650a416c696365202d3e20426f623a2041757468656e7469636174696f6e20526571756573740a426f62202d2d3e20416c6963653a2041757468656e7469636174696f6e20526573706f6e73650a0a416c696365202d3e20426f623a20416e6f746865722061757468656e7469636174696f6e20526571756573740a416c696365203c2d2d20426f623a20416e6f746865722061757468656e7469636174696f6e20526573706f6e73650a40656e64756d6c0a40656e64756d6c&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;plantuml&quot; src=&quot;http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a407374617274756d6c0a7363616c6520302e380a217468656d6520636572756c65616e0a736b696e706172616d2068616e647772697474656e20747275650a736b696e706172616d20736861646f77696e672066616c73650a73746172740a3a4765742074686520706172616d657465722076616c7565732066726f6d2063616c6c696e672066756e6374696f6e0a2d2061737369676e65646461746574696d6520696e2027595959592d4d4d2d44442068683a6d6d2720666f726d61742c200a2d20636c6f7365646461746574696d6520696e2027595959592d4d4d2d44442068683a6d6d2720666f726d61742c0a2d20737461727474696d6520696e202768683a6d6d2720666f726d61742c0a2d20656e6474696d6520696e202768683a6d6d2720666f726d61743b0a0a3a5365742040737461727474696d65203d20737461727474696d650a5365742040656e6474696d65203d20656e6474696d650a536574204061737369676e656464617465203d2061737369676e65646461746574696d650a5365742040636c6f73656464617465203d20636c6f7365646461746574696d650a536574204074696d65636f756e74203d20300a536574204074696d6576617231203d204061737369676e6564646174650a53657420406e65787464617465203d204061737369676e6564646174650a536574204074696d6576617232203d206e756c6c0a5365742040706172616d5f636f756e747279203d20706172616d5f636f756e7472793b0a0a3a53656c6563742074696d655f746f5f7365632874696d65646966662840656e6474696d652c40737461727474696d6529292f3336303020696e746f20406d6178686f757273616461793b0a0a6e6f7465206c656674200a2354494d45444946462063616c63756c6174657320646966666572656e6365206265747765656e2074776f2074696d65730a2354696d655f746f5f7365632066756e6374696f6e20636f6e7665727473206461746120696e746f207365636f6e64730a234469766964696e67206279203336303020636f6e7665727473207468652074696d6520696e746f20686f7572730a656e64206e6f74650a0a3a5365742040636865636b7374617274203d206e756c6c0a5365742040636865636b656e64203d206e756c6c3b0a0a3a53656c65637420434f4e43415428535542535452494e475f494e444558284061737369676e6564646174652c202720272c2031292c202720272c40737461727474696d65292c0a434f4e43415428535542535452494e475f494e4445582840636c6f736564646174652c202720272c2031292c202720272c40656e6474696d65292020696e746f2040636865636b73746172742c2040636865636b656e643b0a0a696620284061737369676e656464617465203e2040636865636b737461727429207468656e2028796573290a6966202840636c6f73656464617465203c2040636865636b656e6429207468656e2028796573290a202020203a536574204061737369676e656464617465203d204061737369676e6564646174650a202020205365742040636c6f73656464617465203d2040636c6f736564646174653b0a656c736520286e6f290a202020203a536574204061737369676e656464617465203d204061737369676e6564646174650a202020205365742040636c6f73656464617465203d2040636865636b656e643b0a656e6469660a656c736520286e6f290a6966202840636c6f73656464617465203c2040636865636b656e6429207468656e2028796573290a202020203a534554204061737369676e656464617465203d2040636865636b73746172740a202020205365742040636c6f73656464617465203d2040636c6f736564646174653b0a656c736520286e6f290a202020203a534554204061737369676e656464617465203d2040636865636b73746172740a202020205365742040636c6f73656464617465203d2040636865636b656e643b0a656e6469660a656e6469660a0a3a53454c4543542044415445444946462840636c6f736564646174652c204061737369676e6564646174652920494e544f2040666978636f756e743b200a0a3a5365742040636f756e74203d2040666978636f756e743b0a0a4966202840666978636f756e74203e203029207468656e2028796573290a7768696c65202840636f756e743e3d30290a3a73656c656374207765656b64617928406e657874646174652920696e746f20407765656b6461793b200a6e6f74650a2020202041737369676e20746865207765656b6461792076616c756520746f20407765656b6461792e205765656b6461792072657475726e73206f20666f72204d6f6e6461792c203220666f722054756573646179202e2e2e3520666f7220536174757264617920616e64203620666f722053756e6461790a656e64206e6f74650a3a53656c6563742073756d28696628646174655f666f726d617428686f6c696461795f646174652c2725592d256d2d25642729203d20737562737472696e675f696e64657828406e657874646174652c2720272c31292c312c3029292066726f6d20686f6c696461795f7461626c6520776865726520436f756e7472795f636f646573203d2027414c4c27206f7220696e73747228436f756e7472795f636f6465732c40706172616d5f636f756e747279293e3020696e746f2040686f6c69646179666c61673b200a6966202820407765656b6461793c3520616e642040686f6c69646179666c61673d3029207468656e2028796573290a202020206966202840636f756e74203d2040666978636f756e7429207468656e2028796573290a20202020202020203a536574204074696d6576617231203d204061737369676e6564646174653b0a20202020202020203a53454c45435420434f4e43415428535542535452494e475f494e444558284061737369676e6564646174652c202720272c2031292c202720272c40656e6474696d652920494e544f204074696d65766172323b0a0a20202020286e6f2920656c73656966202840636f756e74203d203029207468656e2028796573290a20202020202020203a53656c65637420636f6e63617428737562737472696e675f696e6465782840636c6f736564646174652c2720272c31292c2720272c40737461727474696d652920696e746f204074696d65766172313b200a20202020202020203a536574204074696d6576617232203d2040636c6f736564646174653b0a20202020656c736520286e6f290a20202020202020203a53656c65637420636f6e63617428406e657874646174652c2720272c40737461727474696d652920696e746f204074696d65766172313b0a20202020202020203a53454c45435420434f4e43415428406e657874646174652c202720272c2040656e6474696d652920494e544f204074696d65766172323b0a20202020656e6469660a3a53454c454354204c4541535428477265617465737428282854494d455f544f5f5345432854494d4544494646284074696d65766172322c204074696d6576617231292929202f2033363030292c30292c406d6178686f7572736164617929200a494e544f204074696d65636f756e7474656d703b0a3a536574204074696d65636f756e74203d204074696d65636f756e7474656d70202b204074696d65636f756e743b0a656e6469660a0a3a536574204074696d6576617231203d20406e657874646174653b0a3a53454c454354204144444441544528535542535452494e475f494e444558284074696d65766172312c202720272c2031292c3129200a494e544f20406e657874646174653b0a3a5365742040636f756e74203d2040636f756e74202d20313b0a656e647768696c650a656c736520286e6f290a3a73656c656374207765656b646179284061737369676e6564646174652920696e746f20407765656b6461793b200a3a53656c6563742073756d28696628646174655f666f726d617428686f6c696461795f646174652c2725592d256d2d25642729203d20737562737472696e675f696e646578284061737369676e6564646174652c2720272c31292c312c3029292066726f6d20686f6c696461795f7461626c6520776865726520436f756e7472795f636f646573203d2027414c4c27206f7220696e73747228436f756e7472795f636f6465732c40706172616d5f636f756e747279293e3020696e746f2040686f6c69646179666c61673b200a0a69662028407765656b6461793c3520616e642040686f6c69646179666c61673d3029207468656e2028796573290a3a53454c454354204c6561737428477265617465737428282854494d455f544f5f5345430a2854494d45444946462840636c6f736564646174652c204061737369676e656464617465292929202f2033363030292c30290a2c406d6178686f757273616461792920494e544f204074696d65636f756e743b0a656c736520286e6f290a3a536574204074696d65636f756e74203d20303b0a656e6469660a656e6469660a3a52455455524e204074696d65636f756e742a36303b0a656e640a40656e64756d6c0a40656e64756d6c&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;plantuml&quot; src=&quot;http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a407374617274756d6c0a73746172740a3a7374657020313b0a3a7374657020323b0a656e640a40656e64756d6c0a40656e64756d6c&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img class=&quot;plantuml&quot; src=&quot;http://www.plantuml.com/plantuml/svg/~h407374617274756d6c0a407374617274756d6c0a73746172740a3a7374657020310a7374657020323b0a656e640a40656e64756d6c0a40656e64756d6c&quot; /&gt;&lt;/p&gt;</content><author><name>First Lastname</name></author><category term="blog" /><category term="Processes" /><category term="Jekyll" /><category term="update" /><summary type="html">In PlantUML:</summary></entry><entry><title type="html">Post: Link</title><link href="https://techb0lt.github.io/blog/post-link/" rel="alternate" type="text/html" title="Post: Link" /><published>2010-03-07T00:00:00+00:00</published><updated>2010-03-07T00:00:00+00:00</updated><id>https://techb0lt.github.io/blog/post-link</id><content type="html" xml:base="https://techb0lt.github.io/blog/post-link/">&lt;p&gt;This theme supports &lt;strong&gt;link posts&lt;/strong&gt;, made famous by John Gruber. To use, just add &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;link: http://url-you-want-linked&lt;/code&gt; to the post’s YAML front matter and you’re done.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;And this is how a quote looks.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some &lt;a href=&quot;#&quot;&gt;link&lt;/a&gt; can also be shown.&lt;/p&gt;</content><author><name>First Lastname</name></author><category term="Blog" /><category term="link" /><category term="Post Formats" /><summary type="html">This theme supports link posts, made famous by John Gruber. To use, just add link: http://url-you-want-linked to the post’s YAML front matter and you’re done.</summary></entry><entry><title type="html">Post: Notice</title><link href="https://techb0lt.github.io/blog/post-notice/" rel="alternate" type="text/html" title="Post: Notice" /><published>2010-02-05T00:00:00+00:00</published><updated>2010-02-05T00:00:00+00:00</updated><id>https://techb0lt.github.io/blog/post-notice</id><content type="html" xml:base="https://techb0lt.github.io/blog/post-notice/">&lt;p&gt;A notice displays information that explains nearby content. Often used to call attention to a particular detail.&lt;/p&gt;
+
+&lt;p&gt;When using Kramdown &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;{: .notice}&lt;/code&gt; can be added after a sentence to assign the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;.notice&lt;/code&gt; to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&lt;/code&gt; element.&lt;/p&gt;
+
+&lt;p class=&quot;notice&quot;&gt;&lt;strong&gt;Changes in Service:&lt;/strong&gt; We just updated our &lt;a href=&quot;#&quot;&gt;privacy policy&lt;/a&gt; here to better service our customers. We recommend reviewing the changes.&lt;/p&gt;
+
+&lt;p class=&quot;notice--primary&quot;&gt;&lt;strong&gt;Primary Notice:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. &lt;a href=&quot;#&quot;&gt;Praesent libero&lt;/a&gt;. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.&lt;/p&gt;
+
+&lt;p class=&quot;notice--info&quot;&gt;&lt;strong&gt;Info Notice:&lt;/strong&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;#&quot;&gt;consectetur adipiscing elit&lt;/a&gt;. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.&lt;/p&gt;
+
+&lt;p class=&quot;notice--warning&quot;&gt;&lt;strong&gt;Warning Notice:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. &lt;a href=&quot;#&quot;&gt;Integer nec odio&lt;/a&gt;. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.&lt;/p&gt;
+
+&lt;p class=&quot;notice--danger&quot;&gt;&lt;strong&gt;Danger Notice:&lt;/strong&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;#&quot;&gt;consectetur adipiscing&lt;/a&gt; elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet.&lt;/p&gt;
+
+&lt;p class=&quot;notice--success&quot;&gt;&lt;strong&gt;Success Notice:&lt;/strong&gt; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at &lt;a href=&quot;#&quot;&gt;nibh elementum&lt;/a&gt; imperdiet.&lt;/p&gt;
+
+&lt;p&gt;Want to wrap several paragraphs or other elements in a notice? Using Liquid to capture the content and then filter it with &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;markdownify&lt;/code&gt; is a good way to go.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;{% capture notice-2 %}
+#### New Site Features
+
+* You can now have cover images on blog pages
+* Drafts will now auto-save while writing
+{% endcapture %}
+
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;notice&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;{{ notice-2 | markdownify }}&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;notice&quot;&gt;
+  
+&lt;h4 id=&quot;new-site-features&quot;&gt;New Site Features&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;You can now have cover images on blog pages&lt;/li&gt;
+  &lt;li&gt;Drafts will now auto-save while writing&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/div&gt;
+
+&lt;p&gt;Or you could skip the capture and stick with straight HTML.&lt;/p&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;notice&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;h4&amp;gt;&lt;/span&gt;Message&lt;span class=&quot;nt&quot;&gt;&amp;lt;/h4&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;A basic message.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;notice&quot;&gt;
+  &lt;h4&gt;Message&lt;/h4&gt;
+  &lt;p&gt;A basic message.&lt;/p&gt;
+&lt;/div&gt;</content><author><name>First Lastname</name></author><category term="Blog" /><category term="Post Formats" /><category term="notice" /><summary type="html">A notice displays information that explains nearby content. Often used to call attention to a particular detail.</summary></entry><entry><title type="html">Post: Quote</title><link href="https://techb0lt.github.io/blog/post-quote/" rel="alternate" type="text/html" title="Post: Quote" /><published>2010-02-05T00:00:00+00:00</published><updated>2010-02-05T00:00:00+00:00</updated><id>https://techb0lt.github.io/blog/post-quote</id><content type="html" xml:base="https://techb0lt.github.io/blog/post-quote/">&lt;blockquote&gt;
+  &lt;p&gt;Only one thing is impossible for God: To find any sense in any copyright law on the planet.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;cite&gt;&lt;a href=&quot;http://www.brainyquote.com/quotes/quotes/m/marktwain163473.html&quot;&gt;Mark Twain&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>First Lastname</name></author><category term="Blog" /><category term="Post Formats" /><category term="quote" /><summary type="html">Only one thing is impossible for God: To find any sense in any copyright law on the planet. Mark Twain</summary></entry><entry><title type="html">Post: Chat</title><link href="https://techb0lt.github.io/blog/post-chat/" rel="alternate" type="text/html" title="Post: Chat" /><published>2010-01-08T00:00:00+00:00</published><updated>2010-01-08T00:00:00+00:00</updated><id>https://techb0lt.github.io/blog/post-chat</id><content type="html" xml:base="https://techb0lt.github.io/blog/post-chat/">&lt;p&gt;Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.&lt;/p&gt;
+
+&lt;p&gt;Costello: Funny names?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Nicknames, nicknames. Now, on the St. Louis team we have Who’s on first, What’s on second, I Don’t Know is on third–&lt;/p&gt;
+
+&lt;p&gt;Costello: That’s what I want to find out. I want you to tell me the names of the fellows on the St. Louis team.&lt;/p&gt;
+
+&lt;p&gt;Abbott: I’m telling you. Who’s on first, What’s on second, I Don’t Know is on third–&lt;/p&gt;
+
+&lt;p&gt;Costello: You know the fellows’ names?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Yes.&lt;/p&gt;
+
+&lt;p&gt;Costello: Well, then who’s playing first?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Yes.&lt;/p&gt;
+
+&lt;p&gt;Costello: I mean the fellow’s name on first base.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Who.&lt;/p&gt;
+
+&lt;p&gt;Costello: The fellow playin’ first base.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Who.&lt;/p&gt;
+
+&lt;p&gt;Costello: The guy on first base.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Who is on first.&lt;/p&gt;
+
+&lt;p&gt;Costello: Well, what are you askin’ me for?&lt;/p&gt;
+
+&lt;p&gt;Abbott: I’m not asking you–I’m telling you. Who is on first.&lt;/p&gt;
+
+&lt;p&gt;Costello: I’m asking you–who’s on first?&lt;/p&gt;
+
+&lt;p&gt;Abbott: That’s the man’s name.&lt;/p&gt;
+
+&lt;p&gt;Costello: That’s who’s name?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Yes.&lt;/p&gt;
+
+&lt;p&gt;Costello: When you pay off the first baseman every month, who gets the money?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Every dollar of it. And why not, the man’s entitled to it.&lt;/p&gt;
+
+&lt;p&gt;Costello: Who is?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Yes.&lt;/p&gt;
+
+&lt;p&gt;Costello: So who gets it?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Why shouldn’t he? Sometimes his wife comes down and collects it.&lt;/p&gt;
+
+&lt;p&gt;Costello: Who’s wife?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Yes. After all, the man earns it.&lt;/p&gt;
+
+&lt;p&gt;Costello: Who does?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Absolutely.&lt;/p&gt;
+
+&lt;p&gt;Costello: Well, all I’m trying to find out is what’s the guy’s name on first base?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Oh, no, no. What is on second base.&lt;/p&gt;
+
+&lt;p&gt;Costello: I’m not asking you who’s on second.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Who’s on first!&lt;/p&gt;
+
+&lt;p&gt;Costello: St. Louis has a good outfield?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Oh, absolutely.&lt;/p&gt;
+
+&lt;p&gt;Costello: The left fielder’s name?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Why.&lt;/p&gt;
+
+&lt;p&gt;Costello: I don’t know, I just thought I’d ask.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Well, I just thought I’d tell you.&lt;/p&gt;
+
+&lt;p&gt;Costello: Then tell me who’s playing left field?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Who’s playing first.&lt;/p&gt;
+
+&lt;p&gt;Costello: Stay out of the infield! The left fielder’s name?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Why.&lt;/p&gt;
+
+&lt;p&gt;Costello: Because.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Oh, he’s center field.&lt;/p&gt;
+
+&lt;p&gt;Costello: Wait a minute. You got a pitcher on this team?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Wouldn’t this be a fine team without a pitcher?&lt;/p&gt;
+
+&lt;p&gt;Costello: Tell me the pitcher’s name.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Tomorrow.&lt;/p&gt;
+
+&lt;p&gt;Costello: Now, when the guy at bat bunts the ball–me being a good catcher–I want to throw the guy out at first base, so I pick up the ball and throw it to who?&lt;/p&gt;
+
+&lt;p&gt;Abbott: Now, that’s he first thing you’ve said right.&lt;/p&gt;
+
+&lt;p&gt;Costello: I DON’T EVEN KNOW WHAT I’M TALKING ABOUT!&lt;/p&gt;
+
+&lt;p&gt;Abbott: Don’t get excited. Take it easy.&lt;/p&gt;
+
+&lt;p&gt;Costello: I throw the ball to first base, whoever it is grabs the ball, so the guy runs to second. Who picks up the ball and throws it to what. What throws it to I don’t know. I don’t know throws it back to tomorrow–a triple play.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Yeah, it could be.&lt;/p&gt;
+
+&lt;p&gt;Costello: Another guy gets up and it’s a long ball to center.&lt;/p&gt;
+
+&lt;p&gt;Abbott: Because.&lt;/p&gt;
+
+&lt;p&gt;Costello: Why? I don’t know. And I don’t care.&lt;/p&gt;
+
+&lt;p&gt;Abbott: What was that?&lt;/p&gt;
+
+&lt;p&gt;Costello: I said, I DON’T CARE!&lt;/p&gt;
+
+&lt;p&gt;Abbott: Oh, that’s our shortstop!&lt;/p&gt;</content><author><name>First Lastname</name></author><category term="Blog" /><category term="chat" /><category term="Post Formats" /><summary type="html">Abbott: Strange as it may seem, they give ball players nowadays very peculiar names.</summary></entry><entry><title type="html">Post: Modified Date</title><link href="https://techb0lt.github.io/blog/post-modified/" rel="alternate" type="text/html" title="Post: Modified Date" /><published>2010-01-07T00:00:00+00:00</published><updated>2016-03-09T21:20:02+00:00</updated><id>https://techb0lt.github.io/blog/post-modified</id><content type="html" xml:base="https://techb0lt.github.io/blog/post-modified/">&lt;p&gt;This post has been updated and should show a modified date if used in a layout.&lt;/p&gt;
+
+&lt;p&gt;All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.&lt;/p&gt;</content><author><name>First Lastname</name></author><category term="Blog" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">This post has been updated and should show a modified date if used in a layout.</summary></entry><entry><title type="html">Post: Standard</title><link href="https://techb0lt.github.io/blog/post-standard/" rel="alternate" type="text/html" title="Post: Standard" /><published>2010-01-07T00:00:00+00:00</published><updated>2010-01-07T00:00:00+00:00</updated><id>https://techb0lt.github.io/blog/post-standard</id><content type="html" xml:base="https://techb0lt.github.io/blog/post-standard/">&lt;p&gt;All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.&lt;/p&gt;
+
+&lt;p&gt;Mrs. Darling first heard of Peter when she was tidying up her children’s minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;This post has a manual excerpt &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;!--more--&amp;gt;&lt;/code&gt; set after the second paragraph. The following YAML Front Matter has also be applied:&lt;/p&gt;
+
+&lt;div class=&quot;language-yaml highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;na&quot;&gt;excerpt_separator&lt;/span&gt;&lt;span class=&quot;pi&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;lt;!--more--&amp;gt;&quot;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you could keep awake (but of course you can’t) you would see your own mother doing this, and you would find it very interesting to watch her. It is quite like tidying up drawers. You would see her on her knees, I expect, lingering humorously over some of your contents, wondering where on earth you had picked this thing up, making discoveries sweet and not so sweet, pressing this to her cheek as if it were as nice as a kitten, and hurriedly stowing that out of sight. When you wake in the morning, the naughtiness and evil passions with which you went to bed have been folded up small and placed at the bottom of your mind and on the top, beautifully aired, are spread out your prettier thoughts, ready for you to put on.&lt;/p&gt;
+
+&lt;p&gt;I don’t know whether you have ever seen a map of a person’s mind. Doctors sometimes draw maps of other parts of you, and your own map can become intensely interesting, but catch them trying to draw a map of a child’s mind, which is not only confused, but keeps going round all the time. There are zigzag lines on it, just like your temperature on a card, and these are probably roads in the island, for the Neverland is always more or less an island, with astonishing splashes of colour here and there, and coral reefs and rakish-looking craft in the offing, and savages and lonely lairs, and gnomes who are mostly tailors, and caves through which a river runs, and princes with six elder brothers, and a hut fast going to decay, and one very small old lady with a hooked nose. It would be an easy map if that were all, but there is also first day at school, religion, fathers, the round pond, needle-work, murders, hangings, verbs that take the dative, chocolate pudding day, getting into braces, say ninety-nine, three-pence for pulling out your tooth yourself, and so on, and either these are part of the island or they are another map showing through, and it is all rather confusing, especially as nothing will stand still.&lt;/p&gt;
+
+&lt;p&gt;Of course the Neverlands vary a good deal. John’s, for instance, had a lagoon with flamingoes flying over it at which John was shooting, while Michael, who was very small, had a flamingo with lagoons flying over it. John lived in a boat turned upside down on the sands, Michael in a wigwam, Wendy in a house of leaves deftly sewn together. John had no friends, Michael had friends at night, Wendy had a pet wolf forsaken by its parents, but on the whole the Neverlands have a family resemblance, and if they stood still in a row you could say of them that they have each other’s nose, and so forth. On these magic shores children at play are for ever beaching their coracles [simple boat]. We too have been there; we can still hear the sound of the surf, though we shall land no more.&lt;/p&gt;
+
+&lt;p&gt;Of all delectable islands the Neverland is the snuggest and most compact, not large and sprawly, you know, with tedious distances between one adventure and another, but nicely crammed. When you play at it by day with the chairs and table-cloth, it is not in the least alarming, but in the two minutes before you go to sleep it becomes very real. That is why there are night-lights.&lt;/p&gt;
+
+&lt;p&gt;Occasionally in her travels through her children’s minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael’s minds, while Wendy’s began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.&lt;/p&gt;</content><author><name>First Lastname</name></author><category term="Blog" /><category term="Post Formats" /><category term="readability" /><category term="standard" /><summary type="html">All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, “Oh, why can’t you remain like this for ever!” This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end. Mrs. Darling first heard of Peter when she was tidying up her children’s minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.</summary></entry></feed>
