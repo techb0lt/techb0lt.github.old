@@ -9,7 +9,7 @@ tags:
   - standard
 ---]
 
- {% pdf "../assets/images/My%20mostly%20vegetarian%20low%20carb%20diet.pdf" %}
+ {% pdf "../assets/images/My-mostly-vegetarian-Low-Carbs-Diet.pdf" %}
 
 This post has been updated and should show a modified date if used in a layout.
 
