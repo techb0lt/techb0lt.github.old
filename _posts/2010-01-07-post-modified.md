@@ -7,7 +7,9 @@ tags:
   - Post Formats
   - readability
   - standard
----
+---]
+
+ {% pdf "../assets/images/My mostly vegetarian low carb diet.pdf" %}
 
 This post has been updated and should show a modified date if used in a layout.
 
