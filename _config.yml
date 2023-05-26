@@ -61,6 +61,7 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-spaceship
+  - jekyll-pdf-embed
 
 author:
   name   : "First Lastname"
